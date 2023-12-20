@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=favianzaahir&label=Profile%20views&color=0e75b6&style=flat" alt="favianzaahir" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=favianzaahir" alt="favianzaahir" /></a> </p>
-
 - 🔭 I’m currently working on [Movie database fetch API with search bar](https://github.com/FavianZaahir/movie-react-api-searchbar-wip-)
 
 - 🌱 I’m currently learning **Node & React js, Flutter, AWS(cloud), Linux**
